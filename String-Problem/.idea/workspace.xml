@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad23addb-e8db-4c4a-a28d-bf15c4e52aad" name="Changes" comment="" />
+    <list default="true" id="ad23addb-e8db-4c4a-a28d-bf15c4e52aad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../List_Problem/sum_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List_Problem/sum_pos_neg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
